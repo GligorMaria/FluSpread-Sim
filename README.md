@@ -31,6 +31,11 @@ The project simulates two distinct scenarios to demonstrate the impact of public
 1.  **Pygame Animation:** A real-time visual representation of particle collision and infection spread.
 2.  **Matplotlib Analysis:** A dual-plot comparison showing the "flattening of the curve" and total susceptible depletion across both scenarios.
 
+### Results
+The simulation clearly illustrates that even a 50% vaccination rate significantly reduces the peak number of concurrent infections and prevents the total exhaustion of the susceptible population, effectively "breaking" the chain of transmission.
+<img width="1498" height="704" alt="image" src="https://github.com/user-attachments/assets/952f299d-c54a-4c4e-a920-c203a0168689" />
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -53,6 +58,3 @@ The project simulates two distinct scenarios to demonstrate the impact of public
    python main.py
 
 
-##
-### Results
-The simulation clearly illustrates that even a 50% vaccination rate significantly reduces the peak number of concurrent infections and prevents the total exhaustion of the susceptible population, effectively "breaking" the chain of transmission.
